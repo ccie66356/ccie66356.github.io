@@ -18,7 +18,11 @@
   type: linkedin
   icon: 'fab fa-linkedin'   
   url:  'https://www.linkedin.com/in/ccie66356/'                  
-# -
+-
+  type: Facebook
+  icon: 'fab fa-facebook-square'
+  url: 'https://www.facebook.com/ccie66356'
+-
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage

@@ -15,7 +15,7 @@ order: 4
 
 My name is Karam and I'm senior network engineer. I’m focusing on helping large-scale enterprise customers to select the right technology solution for their business needs. I’ve been in the IT industry for more than 8 years and have been involved in architecting, designing and implementing various large-scale networks, some of which are regional Service Provider networks.
 
-Proudly, I passed my CCIE Service Provider 8 hour lab exam, Cisco Certified Internetwork Export (CCIE) is accepted worldwide as the most prestigious networking certification in the industry. For senior networking professionals who design, build, implement, maintain and troubleshoot complex enterprise networking infrastructures. Receiving my CCIE Plaque through the post was the end to very long journey to become **`CCIE# 666356`**
+Proudly, I passed my CCIE Service Provider 8 hour lab exam, Cisco Certified Internetwork Export (CCIE) is accepted worldwide as the most prestigious networking certification in the industry. For senior networking professionals who design, build, implement, maintain and troubleshoot complex service provider infrastructures. Receiving my CCIE Plaque through the post was the end to very long journey to become **`CCIE# 666356`**
 
 For a full list of the active IT Certifications I currently hold, please check my [credly profile](https://www.credly.com/users/karam)
 
